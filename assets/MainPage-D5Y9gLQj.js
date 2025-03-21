@@ -1,0 +1,1 @@
+import{d as e,c as a,a as s,b as o,u as t,R as c,o as n,_}from"./index-CazRVDVK.js";const r={class:"MainPage"},d={class:"show"},i=e({__name:"MainPage",setup(p){return(u,f)=>(n(),a("div",r,[s("div",d,[o(t(c))])]))}}),m=_(i,[["__scopeId","data-v-04b59a79"]]);export{m as default};
